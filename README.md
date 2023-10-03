@@ -33,10 +33,9 @@ Follow the same steps to create the Test data. But make sure you combine the tra
 Make Predictions and plot the graph with the Actual and Predicted values.
 
 ## PROGRAM
-
+````
 NAME : REXLIN R REF NO : 212222220034
 
-'''
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -92,7 +91,7 @@ plt.xlabel('Time')
 plt.ylabel('Google Stock Price')
 plt.legend()
 plt.show()
-'''
+````
 
 ## OUTPUT
 
