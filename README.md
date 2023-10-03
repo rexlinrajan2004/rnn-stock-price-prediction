@@ -35,6 +35,7 @@ Make Predictions and plot the graph with the Actual and Predicted values.
 ## PROGRAM
 
 NAME : REXLIN R REF NO : 212222220034
+
 '''
 import numpy as np
 import matplotlib.pyplot as plt
@@ -92,6 +93,7 @@ plt.ylabel('Google Stock Price')
 plt.legend()
 plt.show()
 '''
+
 ## OUTPUT
 
 ### True Stock Price, Predicted Stock Price vs time
